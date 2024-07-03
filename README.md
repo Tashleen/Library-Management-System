@@ -1,5 +1,5 @@
 ## Library Management System In Pure C++
-## This is project purely base on Object Oriented programming in C++.
+## This is project purely based on Object Oriented programming in C++.
 
 ### This project is just the sample working of Librabry Management system performs the tasks given below:
 
